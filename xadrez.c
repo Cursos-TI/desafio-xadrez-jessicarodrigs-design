@@ -37,8 +37,11 @@ do
     contadorRainha++;
 }   while (contadorRainha <= casasRainha);
 
+
+
 // NIVEL INTERMEDIARIO
 // MOVIMENTO DAS PEÇAS
+
     printf("\nMovimento das peças: \n");
     printf("Cima\n");
     printf("Direita\n");
